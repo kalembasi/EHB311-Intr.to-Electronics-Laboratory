@@ -1,1 +1,1 @@
-# EHB311--Intr.to-Electronics-Laboratory
+# EHB311-Intr.to-Electronics-Laboratory
